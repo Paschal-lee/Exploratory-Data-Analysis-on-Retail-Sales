@@ -6,7 +6,7 @@ to perform exploratory data analysis (EDA) to uncover patterns, trends, and insi
 help the retail business make informed decisions.
 
 # Dataset Used:
-
+- <a href="https://github.com/Paschal-lee/Exploratory-Data-Analysis-on-Retail-Sales/blob/main/retail_sales_dataset.csv">Dataset</a>
 
 ## Key Concepts and Challenges:
 Data Loading and Cleaning: Load the retail sales dataset.
